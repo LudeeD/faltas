@@ -21,8 +21,8 @@
           },
         },
       ],
-      "/sqlite.worker.js",
-      "/sql-wasm.wasm",
+      "/faltas/sqlite.worker.js",
+      "/faltas/sql-wasm.wasm",
       10 * 1024 * 1024 // optional, defaults to Infinity
     );
 
